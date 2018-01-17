@@ -1,0 +1,92 @@
+ISTRUZIONI DI STAMPA ADOBE INDESIGN DESTINATE AL SERVICE DI STAMPA
+
+NOME PUBBLICAZIONE: template verticale.indd
+
+DATA PREPARAZIONE PACCHETTO: 17/01/18 20:15
+Data di creazione: 17/01/18
+Data di modifica: 17/01/18
+
+INFORMAZIONI DI CONTATTO
+
+Nome società: 
+Contatto: 
+Indirizzo: 
+
+
+
+
+
+Telefono: 
+Fax: 
+E-mail: 
+
+ISTRUZIONI SPECIALI E ALTRE INDICAZIONI
+
+
+
+
+
+
+Plug-in esterni 0
+Oggetti non opachi: Nessuno
+
+FONT
+5 font usati; 0 mancanti, 0 incorporati, 0 incompleti, 0 protetti
+
+Font inclusi nel pacchetto
+- Nome: HKGrotesk-Light; Tipo: OpenType Type 1, Stato: OK
+- Nome: Montserrat-Black; Tipo: OpenType Type 1, Stato: OK
+- Nome: Montserrat-Bold; Tipo: OpenType Type 1, Stato: OK
+- Nome: Montserrat-Light; Tipo: OpenType Type 1, Stato: OK
+- Nome: Moon_Phases_-_smartmix.it; Tipo: TrueType, Stato: OK
+
+
+COLORI E INCHIOSTRI
+4 inchiostri di quadricromia; 0 inchiostri tinta piatta
+
+- Nome e tipo: Cyan quadricromia; Angolo: 75,000; Linee/pollice: 70,000
+- Nome e tipo: Magenta quadricromia; Angolo: 15,000; Linee/pollice: 70,000
+- Nome e tipo: Giallo quadricromia; Angolo: 0,000; Linee/pollice: 70,000
+- Nome e tipo: Nero quadricromia; Angolo: 45,000; Linee/pollice: 70,000
+
+
+COLLEGAMENTI E IMMAGINI
+(Solo collegamenti mancanti e incorporati)
+Collegamenti e immagini: 1 collegamenti trovati; 0 modificati, 0 mancanti 0 Non accessibile
+Immagini: 0 incorporati, 1 usano spazio cromatico RGB
+
+
+IMPOSTAZIONI DI STAMPA
+PPD: Indipendente dal dispositivo, (File PostScript®)
+Stampa in corso su: File di prestampa
+Numero di copie: 1
+Pagine affiancate: No
+Pagine pari/dispari: Entrambe
+Pagine: Tutte
+Prova di stampa: No
+Divisione in porzioni: Nessuno
+Scala: 100%, 100%
+Posizione pagina: In alto a sinistra
+Stampa livelli: Livelli visibili e stampabili
+Segni di stampa: Nessuno
+Pagina al vivo: 0 mm, 0 mm, 0 mm, 0 mm
+Colore: CMYK composito
+Modalità abbondanza: Nessuno
+Invia dati immagine: Tutte
+Sostituzione immagini OPI/DCS: No
+Dimensioni pagina: A4
+Dimensioni carta: 0 mm x 0 mm
+Orientamento: Verticale
+Negativo: No
+Modalità riflessione: Disattivato
+
+
+ELENCO DEI FILE DEL PACCHETTO
+
+1. template verticale.indd; tipo: Pubblicazione Adobe InDesign; dimensione: 1508K
+2. template verticale.idml; tipo: Documento InDesign Markup; dimensione: 82K
+3. HKGrotesk-Light.otf; tipo: Font; dimensione: 82K
+4. Montserrat-Black.otf; tipo: Font; dimensione: 44K
+5. Montserrat-Bold.otf; tipo: Font; dimensione: 44K
+6. Montserrat-Light.otf; tipo: Font; dimensione: 43K
+7. Moon Phases - smartmix.it.ttf; tipo: Font; dimensione: 267K
